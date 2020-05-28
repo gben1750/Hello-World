@@ -1,0 +1,7 @@
+Adding 2nd ReadMe file
+On GitHub, saved changes are called commits. Each commit has an associated commit message, which is a description explaining why a particular change was made. Commit messages capture the history of your changes, so other contributors can understand what you’ve done and why.
+These changes will be made to just the README file on your readme-edits branch, so now this branch contains content that’s different from master.
+Now that you have changes in a branch off of master, you can open a pull request.
+When you’re satisfied that these are the changes you want to submit, click the big green Create Pull Request button.
+Final Step - Merge the pull request
+Click the green Merge pull request button to merge the changes into master.
