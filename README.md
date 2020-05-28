@@ -1,3 +1,3 @@
-# Hello-World - Changing Text on the feature branch.
+# Hello-World
 Testing creation of new branch - readme-edits2
-An edit on the readme-edits branch - 27 May 2020
+Making another edit - 27 May 2020
