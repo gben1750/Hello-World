@@ -1,0 +1,20 @@
+Nominations - injections/withdrawals
+Back to Back trades
+Counterparty was originally BraemarPower project, e.g buying gas was against Braemar
+QLD gas trades: Now counterparty is AERS (Alinta Energy Retail Sales). Gas is purchased against AERS but for accounting purposes it needs to be reflected against Braemar. The accounting entries to reflect this are "Back to Back trade"
+Previously defined logic/rules not applicable - Sonia to clarify
+
+All GSH/MSV done via AERS (if outside QLD - not back-to-back)
+GSH trades (QLD) - back-to-back (i.e allocated to Braemar)
+MSV Trades (QLD) Back-to-Back (i.e allocated to Braemar)
+Did we trade on behalf of Braemar?
+All AGL trades are BTB - In QLD against BPP / Outside QLD against AERS
+
+ONly output No to CSV but put all login in spreaadsheet
+
+2 seperate approaches to trading:
+TN: Transaction Notice - we need to advise settlements of the counterparty we dealt with. Would occur if participant was not currently trading on the GSH or 
+GSH: Gas Supply Hub - online trading platform where participants trade - managed by AEMO. AEMO invoices buyer and seller. No contractual agreement needed with a counterparty. Way of facilitating bi-laterals. Off-market transaction details not dislosed.
+
+Time swap: sell gas @ 1 date / receive gas back at a later date
+Location Swap - give gas at one location and buy back @ another Location (save transportation cost). e.g. sell gas to shell outside QLD, receive gas back in QLD (if TN then )
