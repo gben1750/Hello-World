@@ -5,4 +5,6 @@ Now that you have changes in a branch off of master, you can open a pull request
 When you’re satisfied that these are the changes you want to submit, click the big green Create Pull Request button.
 Final Step - Merge the pull request
 Click the green Merge pull request button to merge the changes into master.
+git pull pulls the latest commits from the remote to your local client.
+git push pushes your latest local commits from your local client to the remote
 Azure offers cloud-based digital data storage solutions that comprise of an extensive range of data services
