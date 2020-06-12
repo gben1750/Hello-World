@@ -18,3 +18,4 @@ GSH: Gas Supply Hub - online trading platform where participants trade - managed
 
 Time swap: sell gas @ 1 date / receive gas back at a later date
 Location Swap - give gas at one location and buy back @ another Location (save transportation cost). e.g. sell gas to shell outside QLD, receive gas back in QLD (if TN then )
+Add another Line @ 5.41pm
