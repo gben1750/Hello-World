@@ -5,3 +5,6 @@ Now that you have changes in a branch off of master, you can open a pull request
 When you’re satisfied that these are the changes you want to submit, click the big green Create Pull Request button.
 Final Step - Merge the pull request
 Click the green Merge pull request button to merge the changes into master.
+You don't need to have any special extensions installed for authentication; it is built into VS Code so that you can efficiently manage your repository.
+To get started with the GitHub in VS Code, you'll need to create an account and install the GitHub Pull Requests and Issues extension. 
+Removing Line 10
